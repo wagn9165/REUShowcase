@@ -1,0 +1,13 @@
+Script started on Fri Dec 11 16:22:08 2020
+[?1034hbash-4.2$ ls
+apple.cxx  banana.cxx  grapefruit.cxx  orange.cxx  script2.py  typescript
+bash-4.2$ ./script2.py
+Renamed apple.cxx to apple.cpp
+Renamed grapefruit.cxx to grapefruit.cpp
+Renamed orange.cxx to orange.cpp
+Renamed banana.cxx to banana.cpp
+bash-4.2$ ls
+apple.cpp  banana.cpp  grapefruit.cpp  orange.cpp  script2.py  typescript
+bash-4.2$ exit
+
+Script done on Fri Dec 11 16:22:21 2020
