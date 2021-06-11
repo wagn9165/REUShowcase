@@ -1,0 +1,30 @@
+Script started on Fri Dec 11 16:23:38 2020
+[?1034hbash-4.2$ ./script3.py test.                  ls
+script3.py  test.txt  testdirpleaseignore  typescript
+bash-4.2$ ./script3.py test.txt
+Made .backup folder
+test.txt->/home/wagn9165/CS270/HW5/Script3/.backup/test.txt
+End
+bash-4.2$ ./script3.py test.txt        testdirpleaseignore
+testdirpleaseignore->/home/wagn9165/CS270/HW5/Script3/.backup/testdirpleaseignore
+End
+bash-4.2$ ./script3.py testdirpleaseignore.txt[K
+File already exists, do you want to override? (y/n) y
+test.txt->/home/wagn9165/CS270/HW5/Script3/.backup/test.txt
+End
+bash-4.2$ ./script3.py test.txt
+File already exists, do you want to override? (y/n) n
+End
+bash-4.2$ rm -r .backup
+bash-4.2$ rm -r .backupbash-4.2$ ./script3.py test.txt testdirpleaseignore
+Made .backup folder
+test.txt->/home/wagn9165/CS270/HW5/Script3/.backup/test.txt
+testdirpleaseignore->/home/wagn9165/CS270/HW5/Script3/.backup/testdirpleaseignore
+End
+bash-4.2$ ./script3.py test.txt testdirpleaseignore
+File already exists, do you want to override? (y/n) n
+File already exists, do you want to override? (y/n) n
+End
+bash-4.2$ exit
+
+Script done on Fri Dec 11 16:24:56 2020

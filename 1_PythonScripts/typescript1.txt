@@ -1,0 +1,24 @@
+Script started on Fri Dec 11 16:19:20 2020
+[?1034hbash-4.2$ ls
+script1.py  test.txt  test2.txt  typescript
+bash-4.2$ cat test.txt
+Hello world!
+
+Test te
+bash-4.2$ ./script1.py test.txt
+01 Hello world!
+02 
+03 Test te
+bash-4.2$ cat test2.txt
+01 Now is
+02 the time
+03 to add
+04 numbers
+bash-4.2$ sc  cat test2.txtbash-4.2$ [8@./script1.py test.txt[1@2
+Now is
+the time
+to add
+numbers
+bash-4.2$ exit
+
+Script done on Fri Dec 11 16:19:51 2020

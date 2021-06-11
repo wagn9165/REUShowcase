@@ -1,0 +1,31 @@
+Script started on Fri Dec 11 16:27:56 2020
+[?1034hbash-4.2$ ls
+script4.py  test.txt  typescript
+bash-4.2$ cat test, .txt
+hello there,
+this is some sample text
+
+to demonstrate that this script
+
+	works as intended
+bash-4.2$ ./script4.py test.txt
+File reversed.
+bash-4.2$ cat test.txt
+,ereht olleh
+txet elpmas emos si siht
+
+tpircs siht taht etartsnomed ot
+
+dednetni sa skrow	
+bash-4.2$ cat test.txtbash-4.2$ [9@./script4.py test.txt
+File reversed.
+bash-4.2$ ./script4.py test.txtbash-4.2$ [9Pcat test.txt
+hello there,
+this is some sample text
+
+to demonstrate that this script
+
+	works as intended
+bash-4.2$ exit
+
+Script done on Fri Dec 11 16:28:28 2020
