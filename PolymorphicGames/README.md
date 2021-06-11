@@ -1,0 +1,1 @@
+These are a showcase of the scripts I have written so far at Polymorphic. Some are currently hotcode, so please forgive any non-standard formatting. Accompanying the scripts are several planning documents that I created and used in the implementation of these scripts.
