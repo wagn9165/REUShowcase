@@ -1,0 +1,1 @@
+These files are an excerpt of the MyHealth Project done in my database course. They demonstrate an ability to interface with multiple languages and platforms. In addition, this was designed based on the diagram (CS360 Project.png) also provided.
